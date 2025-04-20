@@ -35,3 +35,5 @@ class KachelmannWetterCard extends HTMLElement {
     return 3;
   }
 }
+
+customElements.define('kachelmannwetter-card', KachelmannWetterCard);
