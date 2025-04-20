@@ -1,1 +1,12 @@
-# DUMMY CONTENT
+{
+  "domain": "kachelmannwetter",
+  "name": "Kachelmannwetter",
+  "version": "1.0.0",
+  "documentation": "https://github.com/slayerofmadness/kachelmannwetter-hacs",
+  "dependencies": [],
+  "codeowners": ["@slayerofmadness"],
+  "requirements": [],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "loggers": ["custom_components.kachelmannwetter"]
+}
