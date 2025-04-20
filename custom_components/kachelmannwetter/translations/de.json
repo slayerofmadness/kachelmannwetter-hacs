@@ -1,1 +1,20 @@
-# DUMMY CONTENT
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Kachelmannwetter einrichten",
+        "description": "Bitte API-Schlüssel und Standortdaten eingeben.",
+        "data": {
+          "api_key": "API-Schlüssel",
+          "location_name": "Standortname",
+          "latitude": "Breitengrad",
+          "longitude": "Längengrad"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Verbindung fehlgeschlagen"
+    }
+  },
+  "title": "Kachelmannwetter"
+}
