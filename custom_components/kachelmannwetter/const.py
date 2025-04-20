@@ -1,1 +1,7 @@
-# DUMMY CONTENT
+DOMAIN = "kachelmannwetter"
+CONF_API_KEY = "api_key"
+CONF_LATITUDE = "latitude"
+CONF_LONGITUDE = "longitude"
+CONF_LOCATION_NAME = "location_name"
+DEFAULT_NAME = "Kachelmannwetter"
+API_BASE_URL = "https://api.kachelmannwetter.com/v02"
